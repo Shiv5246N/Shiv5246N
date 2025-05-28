@@ -1,4 +1,4 @@
-![logo](https://github.com/Shiv5246N/Shiv5246N/blob/main/BANNER1.png)
+![logo](https://github.com/Shiv5246N/Shiv5246N/blob/main/BANNER2.png.jpg)
 <h1 align="center">Hi 👋, I'm Shivang Raj Saxena</h1>
 <h3 align="center">A passionate Software developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
